@@ -1,4 +1,4 @@
-package factoryMethod;
+package factoryMethod.principal;
 
 import factoryMethod.concreteCreator.Cliente;
 import factoryMethod.subclasesConcretas.ClienteContado;
